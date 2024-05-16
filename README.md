@@ -32,10 +32,6 @@
 
 Here's a short video of the app in action:
 
-## Demo
-
-Here's a short video of the app in action:
-
 <video src="demoVideo.mp4" controls="controls" style="max-width: 100%; height: auto;">
     Your browser does not support the video tag.
 </video>
