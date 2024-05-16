@@ -31,10 +31,9 @@
 ## 🖼️ Demo
 
 Here's a short video of the app in action:
+[Demo Video](https://user-images.githubusercontent.com/your_video_link_here.mp4)
 
-<video src="demoVideo.mp4" controls="controls" style="max-width: 100%; height: auto;">
-    Your browser does not support the video tag.
-</video>
+
 
 ## 🛠️ Technologies Used
 
