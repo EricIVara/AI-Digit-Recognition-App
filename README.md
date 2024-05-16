@@ -1,7 +1,7 @@
-# 🎨 Digit Recognition App
+# 🎨 AI Digit Recognition App
 <!-- Intro  -->
 <h3 align="center">
-  <samp>&gt; Welcome to the Digit Recognition App!</samp>
+  <samp>&gt; Welcome to the AI Digit Recognition App!</samp>
 </h3>
 
 <p align="center"> 
