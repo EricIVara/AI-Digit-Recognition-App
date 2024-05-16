@@ -31,7 +31,7 @@
 ## 🖼️ Demo
 
 Here's a short video of the app in action:
-[Demo Video](https://user-images.githubusercontent.com/your_video_link_here.mp4)
+[Demo Video]([https://user-images.githubusercontent.com/your_video_link_here.mp4](https://github.com/EricIVara/AI-Digit-Recognition-App/issues/1#issue-2300975727))
 
 
 
