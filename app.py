@@ -1,7 +1,7 @@
 import gradio as gr
 import tensorflow as tf
 
-model = tf.keras.models.load_model('model.h5')
+model = tf.keras.models.load_model('model.keras')
 
 def recognize_digit(image):
     if image is not None:

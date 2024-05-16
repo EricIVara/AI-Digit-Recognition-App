@@ -24,5 +24,5 @@ model.add(layers.Dense(10, activation='softmax'))
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 model.fit(train_images, train_labels, epochs=5, batch_size=64, validation_split=0.1)
 
-model.save('model.h5')
+model.save('model.keras')
 
